@@ -546,6 +546,9 @@ nav ul li a {
   font-weight: 600;
   margin: 15px;
 }
+.newWidth {
+  margin-left: 16%;
+}
 
 #contact  #errormessage {
   color: red;
